@@ -1,5 +1,6 @@
 ## Hi there 👋, I am Hans Huang
 ### A developer from Hong Kong
+<img src="https://komarev.com/ghpvc/?username=2000calories&label=Profile%20views&color=0e75b6&style=flat" alt="abdostor" />
 - 🔭 I’m currently working on Web Applications and Mobile Apps
 - 🌱 I’m currently learning Pytorch and Tensorflow
 - 📝 I wrote same articles on https://medium.com/@cuhkhyc
